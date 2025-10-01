@@ -1,0 +1,16 @@
+public class ArrayExample {
+    public static void main(String[] args) {
+        // Declare an integer array of size 5
+        int[] numbers = new int[5]; 
+
+        // Initialize elements
+        numbers[0] = 10;
+        numbers[1] = 20;
+        numbers[2] = 30;
+        numbers[3] = 40;
+        numbers[4] = 50;
+
+        // Declare and initialize directly
+        String[] fruits = {"Apple", "Banana", "Cherry"}; 
+    }
+}
